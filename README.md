@@ -39,5 +39,5 @@ This has been built with the version 18.18 of Node JS
 
 ### Exam information - to be completed
 - Student (Lastname and Firstname) : Serroukh Soufiane
-- Azure repository URL :
+- Azure repository URL :https://github.com/Soufiane-Serroukh-Vinci/devops-exam-2024
 - Azure Static Web app URL : 
